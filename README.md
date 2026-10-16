@@ -213,6 +213,7 @@ Large collections of skills, specialized agents, and reusable AI behaviors.
 | [alirezarezvani/claude-code-tresor](https://github.com/alirezarezvani/claude-code-tresor) | 674 ⭐ | World-class collection of Claude Code utilities: autonomous skills, expert agents, slash commands |
 | [alirezarezvani/claude-code-skill-factory](https://github.com/alirezarezvani/claude-code-skill-factory) | — | Powerful open-source toolkit for building and deploying production-ready skills |
 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | ~5k ⭐ | Scientific agent skills for Claude Code |
+| [adiprmx/atlys](https://github.com/adiprmx/atlys) | — | 47 curated agent skills (design taste, anti-slop writing, backend QA) — one-command install via `npx skills add` |
 | [refly-ai/refly](https://github.com/refly-ai/refly) | 7.2k ⭐ | First open-source agent skills builder — define skills by vibe workflow, run on Claude Code, Cursor |
 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 63.8k ⭐ | AI SKILL providing design intelligence for building professional UI/UX across multiple platforms |
 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | 8.7k ⭐ | Turn Claude Code into a full game dev studio — 48 AI agents, 36 workflow skills |
